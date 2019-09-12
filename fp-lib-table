@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name signet2)(type KiCad)(uri ${KIPRJMOD}/signet2.pretty)(options "")(descr ""))
+  (lib (name KLM4G1YEMD-B031)(type Legacy)(uri ${KIPRJMOD}/KLM4G1YEMD-B031.mod)(options "")(descr ""))
+)

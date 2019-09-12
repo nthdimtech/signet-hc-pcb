@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F723ZCIx
+D ARM Cortex-M7 MCU, 256KB flash, 192KB RAM, 216MHz, 1.7-3.6V, 112 GPIO, UFBGA-144
+K ARM Cortex-M7 STM32F7 STM32F7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00330506.pdf
+$ENDCMP
+#
+$CMP STM32F723ZEIx
+D ARM Cortex-M7 MCU, 512KB flash, 192KB RAM, 216MHz, 1.7-3.6V, 112 GPIO, UFBGA-144
+K ARM Cortex-M7 STM32F7 STM32F7x3
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00330506.pdf
+$ENDCMP
+#
+#End Doc Library
